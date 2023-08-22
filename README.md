@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Artem :wave: </h1>
 <h3 align="center">Java developer</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **aazarkevich/aazarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
