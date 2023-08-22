@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Artem :wave: </h1>
 <h3 align="center">Java developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich)](https://github.com/aazarkevich/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
 
 <!--
