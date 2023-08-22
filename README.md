@@ -2,9 +2,11 @@
 <h3 align="center">Java developer</h3>
 
 <h4 align="center">>About me on github:</h4>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
-<h5 align="center"> >Hobby:</h5>
+<h5 align="center"> >Hobby: </h5>
+
 [![codewars](https://www.codewars.com/users/aazarkevich/badges/small)](https://www.codewars.com/users/aazarkevich)
 
 <h5>Pet-projects in profile</h5>
