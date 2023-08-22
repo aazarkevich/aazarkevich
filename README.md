@@ -5,11 +5,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazarkevich&theme=solarized_dark)
+
 <h5 align="center">Hobby: </h5>
 
 [![codewars](https://www.codewars.com/users/aazarkevich/badges/small)](https://www.codewars.com/users/aazarkevich)
 
-<h5>Pet-projects in profile</h5>
+
 <!--
 **aazarkevich/aazarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
