@@ -3,9 +3,11 @@
 
 <h4 align="center">About me on github:</h4>
 
+<div> 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazarkevich&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazarkevich&theme=solarized_dark) </div>
 
 <h5 align="center">Hobby: </h5>
 
