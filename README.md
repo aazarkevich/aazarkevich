@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Artem :wave: </h1>
 <h3 align="center">Java developer</h3>
 
-About me on github:
+<h4>About me on github:</h4>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
-Hobby:
+<h5>Hobby:</h5>
 [![codewars](https://www.codewars.com/users/aazarkevich/badges/small)](https://www.codewars.com/users/aazarkevich)
 
-Pet-projects in profile
+<h5>Pet-projects in profile</h5>
 <!--
 **aazarkevich/aazarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
