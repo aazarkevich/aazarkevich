@@ -10,7 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=aazarkevich&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hi there, I'm Artem :wave: </h1>
+<h2 align="center">Hi there, I'm Artem :wave: </h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ4OXBxcnJkbG0zdDQ1cDB0b25yNHhuamZybGNocTY0aWFpenhmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h3 align="center">Java developer</h3>
 
 <h4 align="center">About me on github:</h4>
