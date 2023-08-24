@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>
-<div align="center">
+<div id="view" align="center">
   <img src="https://komarev.com/ghpvc/?username=aazarkevich&style=flat-square&color=blue" alt=""/>
 </div>
 
