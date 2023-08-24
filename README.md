@@ -55,8 +55,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazarkevich&theme=solarized_dark) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aazarkevich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
