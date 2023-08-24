@@ -42,6 +42,9 @@
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aazarkevich&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <h3 align="center">Java developer</h3>
 
 <h4 align="center">About me on github:</h4>
