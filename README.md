@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-<div>
+<div align="left">
 
 - :telescope: I'm working as a Software Engineer and contributing to  backend for building web applications.
 
