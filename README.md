@@ -46,16 +46,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aazarkevich)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h3 align="center">Java developer</h3>
-
-<h4 align="center">About me on github:</h4>
-
-<div> 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
-</div>
+
 
 
 
