@@ -16,8 +16,15 @@
 
 ### :man_technologist: About Me :
 
-<div>
-  
+<div align="center">
+
+- :telescope: I'm working as a Software Engineer and contributing to  backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Codewars and read tech articles.
+
+[![codewars](https://www.codewars.com/users/aazarkevich/badges/small)](https://www.codewars.com/users/aazarkevich)
 </div>
 
 <h3 align="center">Java developer</h3>
@@ -30,9 +37,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazarkevich&theme=solarized_dark) </div>
 
-<h5 align="center">Hobby: </h5>
 
-[![codewars](https://www.codewars.com/users/aazarkevich/badges/small)](https://www.codewars.com/users/aazarkevich)
+
 
 
 <!--
