@@ -47,7 +47,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
 
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
 
 
 
