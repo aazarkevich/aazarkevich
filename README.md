@@ -46,7 +46,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazarkevich&show_icons=true&theme=radical)
 
-
+![Leetcode Stats](https://leetcard.aazarkevich.cool/aazarkevich)
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
