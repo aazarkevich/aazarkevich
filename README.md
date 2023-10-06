@@ -48,6 +48,8 @@
 
 ![Leetcode Stats](https://leetcard.aazarkevich.cool/aazarkevich)
 
+[![Leetcode Stats](https://leetcard.aazarkevich.cool/aazarkevich)](https://leetcode.com/aazarkevich)
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
